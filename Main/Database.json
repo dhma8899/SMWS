@@ -1,0 +1,18 @@
+{
+"TCS" : ["https://finance.yahoo.com/quote/TCS.BO?p=TCS.BO&.tsrc=fin-srch"],
+"Asian Paints (india) Ltd." :["https://finance.yahoo.com/quote/ASIANPAINT.BO?p=ASIANPAINT.BO&.tsrc=fin-srch"],
+"Avenue Supermarts Ltd." : ["https://finance.yahoo.com/quote/DMART.BO?p=DMART.BO&.tsrc=fin-srch"], 
+"Bajaj Finance Ltd." :["https://finance.yahoo.com/quote/BAJFINANCE.NS?p=BAJFINANCE.NS&.tsrc=fin-srch"],
+"Bharti Airtel Ltd." :["https://finance.yahoo.com/quote/532454.BO?p=532454.BO&.tsrc=fin-srch"], 
+"HDFC Bank Ltd." :["https://finance.yahoo.com/quote/HDFCBANK.BO?p=HDFCBANK.BO&.tsrc=fin-srch"], 
+"Hindustan Unilever Ltd." :["https://finance.yahoo.com/quote/HINDUNILVR.BO?p=HINDUNILVR.BO&.tsrc=fin-srch"], 
+"Housing Development Finance Corporation Ltd." :["https://finance.yahoo.com/quote/HDFC.NS?p=HDFC.NS&.tsrc=fin-srch"],
+"ICICI Bank Ltd." :["https://finance.yahoo.com/quote/ICICIBANK.BO?p=ICICIBANK.BO&.tsrc=fin-srch"], 
+"Infosys Ltd." :["https://finance.yahoo.com/quote/INFY.BO?p=INFY.BO&.tsrc=fin-srch"], 
+"Kotak Mahindra Bank Ltd." : ["https://finance.yahoo.com/quote/KOTAKBANK.BO?p=KOTAKBANK.BO&.tsrc=fin-srch"], 
+"Maruti Suzuki India Ltd." :["https://finance.yahoo.com/quote/MARUTI.BO?p=MARUTI.BO&.tsrc=fin-srch"],
+"Reliance Industries Ltd.":["https://finance.yahoo.com/quote/RELIANCE.NS?p=RELIANCE.NS&.tsrc=fin-srch"], 
+"Ultratech Cement Ltd." :["https://finance.yahoo.com/quote/ULTRACEMCO.BO?p=ULTRACEMCO.BO&.tsrc=fin-srch"]
+}
+
+

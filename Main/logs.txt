@@ -1,0 +1,1616 @@
+
+10:18:57
+Bought TCSStocks:2
+Purchase Rate:1960.4
+Current Balance:16079.2
+10:18:57
+Bought Reliance Industries Ltd.Stocks:3
+Purchase Rate:1449.25
+Current Balance:15652.25
+10:18:57
+Bought Bajaj Finance Ltd.Stocks:2
+Purchase Rate:1968.2
+Current Balance:16063.6
+10:18:57
+Bought Housing Development Finance Corporation Ltd.Stocks:3
+Purchase Rate:1554
+Current Balance:15338
+10:18:57
+Bought Infosys Ltd.Stocks:7
+Purchase Rate:673
+Current Balance:15289
+10:19:47
+Bought TCSStocks:2
+Purchase Rate:1961.55
+Current Balance:12156.1
+11:18:28
+Bought Bajaj Finance Ltd.Stocks:2
+Purchase Rate:1975.55
+Current Balance:12112.5
+11:18:28
+Bought Housing Development Finance Corporation Ltd.Stocks:2
+Purchase Rate:1554.5
+Current Balance:12229.0
+11:19:18
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1975.55
+Current Balance:10136.95
+11:19:18
+Bought Infosys Ltd.Stocks:5
+Purchase Rate:669
+Current Balance:11944
+11:20:08
+Bought Reliance Industries Ltd.Stocks:2
+Purchase Rate:1445.2
+Current Balance:12761.85
+11:20:08
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1552.9
+Current Balance:10676.1
+11:20:57
+Bought TCSStocks:1
+Purchase Rate:1946.1
+Current Balance:10210.0
+11:20:57
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1969
+Current Balance:8167.950000000001
+11:20:57
+Bought Infosys Ltd.Stocks:4
+Purchase Rate:669
+Current Balance:9268
+11:21:47
+Bought TCSStocks:1
+Purchase Rate:1947.8
+Current Balance:8262.2
+11:22:37
+Bought TCSStocks:1
+Purchase Rate:1950
+Current Balance:6312.200000000001
+11:23:27
+Bought Reliance Industries Ltd.Stocks:2
+Purchase Rate:1445
+Current Balance:9871.85
+11:23:27
+Bought Infosys Ltd.Stocks:3
+Purchase Rate:664.9
+Current Balance:7273.3
+11:24:17
+Bought TCSStocks:1
+Purchase Rate:1949.2
+Current Balance:4363.000000000001
+11:24:17
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1970.9
+Current Balance:6197.050000000001
+11:24:17
+Bought Infosys Ltd.Stocks:2
+Purchase Rate:665.05
+Current Balance:5943.200000000001
+11:25:57
+Bought Infosys Ltd.Stocks:2
+Purchase Rate:665.95
+Current Balance:4611.300000000001
+11:26:47
+Bought TCSStocks:1
+Purchase Rate:1947.2
+Current Balance:2415.800000000001
+11:26:47
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1551
+Current Balance:9125.1
+11:26:47
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:669
+Current Balance:3942.300000000001
+11:29:17
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:669
+Current Balance:3273.300000000001
+11:30:07
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1446.9
+Current Balance:8424.95
+11:30:57
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:669
+Current Balance:2604.300000000001
+11:32:36
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:667.3
+Current Balance:1937.0000000000011
+11:33:27
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:669
+Current Balance:1268.000000000001
+11:38:38
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1552
+Current Balance:7573.1
+11:39:28
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1552.3
+Current Balance:6020.8
+11:40:18
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1446.45
+Current Balance:6978.500000000001
+11:42:48
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1447.8
+Current Balance:5530.700000000001
+11:46:59
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1447.6
+Current Balance:4083.100000000001
+11:47:50
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1447.9
+Current Balance:2635.2000000000007
+12:08:58
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1550.8
+Current Balance:4470.0
+12:09:49
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1552.1
+Current Balance:2917.9
+13:02:11
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1970.9
+Current Balance:4226.1500000000015
+13:10:32
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1968
+Current Balance:2258.1500000000005
+09:59:07
+Bought TCSStocks:2
+Purchase Rate:1950
+Current Balance:16100
+09:59:07
+Bought Reliance Industries Ltd.Stocks:3
+Purchase Rate:1438
+Current Balance:15686
+09:59:07
+Bought Infosys Ltd.Stocks:7
+Purchase Rate:667.25
+Current Balance:15329.25
+09:59:57
+Bought TCSStocks:2
+Purchase Rate:1949
+Current Balance:12202
+09:59:57
+Bought Reliance Industries Ltd.Stocks:2
+Purchase Rate:1437.45
+Current Balance:12811.1
+09:59:57
+Bought Bajaj Finance Ltd.Stocks:2
+Purchase Rate:2059.95
+Current Balance:15880.1
+09:59:57
+Bought Housing Development Finance Corporation Ltd.Stocks:3
+Purchase Rate:1626.1
+Current Balance:15121.7
+09:59:57
+Bought Infosys Ltd.Stocks:5
+Purchase Rate:667.25
+Current Balance:11993.0
+10:00:47
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2058
+Current Balance:13822.1
+10:00:47
+Bought Housing Development Finance Corporation Ltd.Stocks:2
+Purchase Rate:1625.4
+Current Balance:11870.900000000001
+10:00:47
+Bought Infosys Ltd.Stocks:4
+Purchase Rate:667
+Current Balance:9325
+10:01:38
+Bought Reliance Industries Ltd.Stocks:2
+Purchase Rate:1438.3
+Current Balance:9934.5
+10:01:38
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1622.6
+Current Balance:10248.3
+10:01:38
+Bought Infosys Ltd.Stocks:3
+Purchase Rate:666.95
+Current Balance:7324.15
+10:02:29
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1438
+Current Balance:8496.5
+10:03:20
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1437.85
+Current Balance:7058.65
+10:03:20
+Bought Infosys Ltd.Stocks:2
+Purchase Rate:667.5
+Current Balance:5989.15
+10:04:11
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2062
+Current Balance:11760.1
+10:05:02
+Bought Infosys Ltd.Stocks:2
+Purchase Rate:667.4
+Current Balance:4654.349999999999
+10:06:42
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:667.25
+Current Balance:3987.0999999999995
+10:07:33
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1441.7
+Current Balance:5616.95
+10:08:23
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1441
+Current Balance:4175.95
+10:08:23
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1626.9
+Current Balance:8621.4
+10:08:23
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:668.1
+Current Balance:3318.999999999999
+10:09:14
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1440.7
+Current Balance:2735.25
+10:09:14
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:667.55
+Current Balance:2651.449999999999
+10:10:04
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1625.5
+Current Balance:6995.9
+10:10:53
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1625.3
+Current Balance:5370.599999999999
+10:10:53
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:667.15
+Current Balance:1984.2999999999988
+10:11:44
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1624.25
+Current Balance:3746.3499999999995
+10:12:34
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2062.95
+Current Balance:9697.150000000001
+10:12:34
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1624
+Current Balance:2122.349999999999
+10:12:34
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:667.2
+Current Balance:1317.099999999999
+10:13:25
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2061.4
+Current Balance:7635.750000000002
+10:42:43
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2059.45
+Current Balance:5576.300000000002
+10:43:34
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2059.4
+Current Balance:3516.900000000002
+10:50:41
+Bought TCSStocks:1
+Purchase Rate:1956
+Current Balance:10246
+10:54:02
+Bought TCSStocks:1
+Purchase Rate:1958.7
+Current Balance:8287.3
+10:54:53
+Bought TCSStocks:1
+Purchase Rate:1958.55
+Current Balance:6328.749999999999
+10:56:34
+Bought TCSStocks:1
+Purchase Rate:1958.85
+Current Balance:4369.9
+10:57:26
+Bought TCSStocks:1
+Purchase Rate:1957.85
+Current Balance:2412.0499999999997
+11:05:55
+Sold Bajaj Finance Ltd. Stocks:8
+Selling Rate:2059.5
+Profit or Loss:-3.618750000001455
+Current Balance:19992.9
+11:35:15
+Sold Bajaj Finance Ltd. Stocks:8
+Selling Rate:2059.5
+Profit or Loss:-3.618750000001455
+Current Balance:19992.9
+12:25:35
+Sold Housing Development Finance Corporation Ltd. Stocks:11
+Selling Rate:1621.95
+Profit or Loss:-27.11328125
+Current Balance:19963.8
+12:26:27
+Sold Housing Development Finance Corporation Ltd. Stocks:11
+Selling Rate:1622.95
+Profit or Loss:-16.11328125
+Current Balance:19974.8
+12:28:09
+Sold Housing Development Finance Corporation Ltd. Stocks:11
+Selling Rate:1623.05
+Profit or Loss:-15.013281250001455
+Current Balance:19975.899999999998
+22:48:42
+Sold TCS Stocks:13
+Selling Rate:1991.55
+Profit or Loss:6390.149999999998
+Current Balance:26390.149999999998
+22:49:32
+Sold TCS Stocks:0
+Selling Rate:1991.55
+Profit or Loss:6390.149999999998
+Current Balance:26390.15
+22:49:58
+Sold TCS Stocks:0
+Selling Rate:1991.55
+Profit or Loss:6390.149999999998
+Current Balance:26390.15
+22:49:58
+Sold Reliance Industries Ltd. Stocks:20
+Selling Rate:1441.25
+Profit or Loss:8825.0
+Current Balance:28825.0
+22:49:59
+Sold Bajaj Finance Ltd. Stocks:13
+Selling Rate:1990.2
+Profit or Loss:6372.600000000002
+Current Balance:26372.600000000002
+22:49:59
+Sold Housing Development Finance Corporation Ltd. Stocks:20
+Selling Rate:1597.3
+Profit or Loss:11946.0
+Current Balance:31946.0
+22:49:59
+Sold Infosys Ltd. Stocks:40
+Selling Rate:672
+Profit or Loss:6880
+Current Balance:26880
+22:51:00
+Sold TCS Stocks:0
+Selling Rate:1991.55
+Profit or Loss:6390.149999999998
+Current Balance:26390.15
+22:51:00
+Sold Reliance Industries Ltd. Stocks:20
+Selling Rate:1441.25
+Profit or Loss:8825.0
+Current Balance:28825.0
+22:51:00
+Sold Bajaj Finance Ltd. Stocks:13
+Selling Rate:1990.2
+Profit or Loss:6372.600000000002
+Current Balance:26372.600000000002
+22:51:00
+Sold Housing Development Finance Corporation Ltd. Stocks:20
+Selling Rate:1597.3
+Profit or Loss:11946.0
+Current Balance:31946.0
+22:51:00
+Sold Infosys Ltd. Stocks:40
+Selling Rate:672
+Profit or Loss:6880
+Current Balance:26880
+22:54:57
+Sold TCS Stocks:0
+Selling Rate:1991.55
+Profit or Loss:6390.149999999998
+Current Balance:26390.15
+22:54:58
+Sold Reliance Industries Ltd. Stocks:20
+Selling Rate:1441.25
+Profit or Loss:8825.0
+Current Balance:28825.0
+22:54:58
+Sold Bajaj Finance Ltd. Stocks:13
+Selling Rate:1990.2
+Profit or Loss:6372.600000000002
+Current Balance:26372.600000000002
+22:54:58
+Sold Housing Development Finance Corporation Ltd. Stocks:20
+Selling Rate:1597.3
+Profit or Loss:11946.0
+Current Balance:31946.0
+22:54:58
+Sold Infosys Ltd. Stocks:40
+Selling Rate:672
+Profit or Loss:6880
+Current Balance:26880
+22:56:57
+Sold TCS Stocks:0
+Selling Rate:1991.55
+Profit or Loss:6390.149999999998
+Current Balance:26390.15
+22:56:57
+Sold Reliance Industries Ltd. Stocks:20
+Selling Rate:1441.25
+Profit or Loss:8825.0
+Current Balance:28825.0
+22:56:58
+Sold Bajaj Finance Ltd. Stocks:13
+Selling Rate:1990.2
+Profit or Loss:6372.600000000002
+Current Balance:26372.600000000002
+22:56:58
+Sold Housing Development Finance Corporation Ltd. Stocks:20
+Selling Rate:1597.3
+Profit or Loss:11946.0
+Current Balance:31946.0
+22:56:58
+Sold Infosys Ltd. Stocks:40
+Selling Rate:672
+Profit or Loss:6880
+Current Balance:26880
+13:00:12
+Bought TCSStocks:1
+Purchase Rate:2010.85
+Current Balance:17989.15
+13:00:12
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1430.7
+Current Balance:18569.3
+13:00:12
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1518.6
+Current Balance:18481.4
+13:01:24
+Bought TCSStocks:1
+Purchase Rate:2010.85
+Current Balance:15978.300000000001
+13:01:24
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1885
+Current Balance:18115
+13:01:24
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.75
+Current Balance:19310.25
+13:02:15
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1882.95
+Current Balance:16232.05
+13:02:15
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1517.4
+Current Balance:16964.0
+13:03:56
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1431.65
+Current Balance:17137.649999999998
+13:03:56
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1881.05
+Current Balance:14351.0
+13:03:56
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1519.35
+Current Balance:15444.65
+13:03:56
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.7
+Current Balance:18620.55
+13:04:48
+Bought TCSStocks:1
+Purchase Rate:2015.25
+Current Balance:13963.05
+13:04:48
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1879.45
+Current Balance:12471.55
+13:04:48
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.3
+Current Balance:17931.25
+13:05:38
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1432.05
+Current Balance:15705.600000000002
+13:05:38
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1877.5
+Current Balance:10594.05
+13:05:38
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1517.4
+Current Balance:13927.25
+13:06:29
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1876.95
+Current Balance:8717.099999999999
+13:07:23
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1872.4
+Current Balance:6844.699999999999
+13:07:23
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1517.55
+Current Balance:12409.7
+13:07:23
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.7
+Current Balance:17241.55
+13:08:55
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1432.8
+Current Balance:14272.800000000001
+13:08:55
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1870
+Current Balance:4974.699999999999
+13:08:55
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1517.55
+Current Balance:10892.150000000001
+13:08:55
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.25
+Current Balance:16552.3
+13:09:46
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1432.65
+Current Balance:12840.15
+13:09:46
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1513.25
+Current Balance:9378.9
+13:10:36
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:688.9
+Current Balance:15863.4
+13:11:29
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1433.5
+Current Balance:11406.65
+13:11:29
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1513.4
+Current Balance:7865.5
+13:11:29
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:688.9
+Current Balance:15174.5
+13:12:20
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1874.75
+Current Balance:3099.949999999999
+13:13:10
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1433.5
+Current Balance:9973.15
+13:14:14
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1432
+Current Balance:8541.15
+13:14:14
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:1869.9
+Current Balance:1230.0499999999988
+13:14:14
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1511.65
+Current Balance:6353.85
+13:14:14
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689
+Current Balance:14485.5
+13:15:05
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1431.7
+Current Balance:7109.45
+13:15:55
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1512.25
+Current Balance:4841.6
+13:18:27
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1514.6
+Current Balance:3327.0000000000005
+13:18:27
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690.3
+Current Balance:13795.2
+13:19:18
+Bought TCSStocks:1
+Purchase Rate:2014.2
+Current Balance:11948.849999999999
+13:19:18
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1431.75
+Current Balance:5677.7
+13:19:18
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1511.85
+Current Balance:1815.15
+13:19:18
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690.25
+Current Balance:13104.95
+13:20:09
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690
+Current Balance:12414.95
+13:21:01
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1431.8
+Current Balance:4245.9
+13:21:01
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690
+Current Balance:11724.95
+13:21:52
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1512.7
+Current Balance:302.45000000000005
+13:21:52
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690
+Current Balance:11034.95
+13:23:37
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1432.75
+Current Balance:2813.1499999999996
+13:23:37
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690.8
+Current Balance:10344.150000000001
+13:24:27
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1432.35
+Current Balance:1380.8000000000002
+13:24:27
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690.5
+Current Balance:9653.65
+13:25:19
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690.5
+Current Balance:8963.15
+13:26:10
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690.1
+Current Balance:8273.05
+13:27:52
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690.05
+Current Balance:7582.999999999999
+13:28:45
+Bought TCSStocks:1
+Purchase Rate:2013.6
+Current Balance:9935.25
+13:28:45
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.7
+Current Balance:6893.299999999999
+13:31:18
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.9
+Current Balance:6203.4
+13:33:01
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.7
+Current Balance:5513.7
+13:34:43
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690.1
+Current Balance:4823.599999999999
+13:35:33
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690
+Current Balance:4133.599999999999
+13:36:24
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.9
+Current Balance:3443.6999999999994
+13:37:15
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.9
+Current Balance:2753.799999999999
+13:39:01
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:689.85
+Current Balance:2063.949999999999
+13:41:37
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690
+Current Balance:1373.949999999999
+13:42:27
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:690
+Current Balance:683.9499999999989
+15:15:09
+Sold TCS Stocks:5
+Selling Rate:2018.55
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:15:09
+Sold Reliance Industries Ltd. Stocks:13
+Selling Rate:1430.1
+Profit or Loss:-29.012756347652612
+Current Balance:19972.1
+15:15:09
+Sold Bajaj Finance Ltd. Stocks:10
+Selling Rate:1894
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:15:09
+Sold Housing Development Finance Corporation Ltd. Stocks:13
+Selling Rate:1514.8
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:15:09
+Sold Infosys Ltd. Stocks:28
+Selling Rate:691.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.949999999997
+15:15:59
+Sold TCS Stocks:0
+Selling Rate:2022.75
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:15:59
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.95
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:16:00
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1894.9
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:16:00
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1513.6
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:16:00
+Sold Infosys Ltd. Stocks:0
+Selling Rate:691.9
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:16:51
+Sold TCS Stocks:0
+Selling Rate:2023.55
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:16:51
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:16:51
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.8
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:16:51
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1513.4
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:16:51
+Sold Infosys Ltd. Stocks:0
+Selling Rate:691.95
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:17:42
+Sold TCS Stocks:0
+Selling Rate:2025
+Profit or Loss:24.6875
+Current Balance:20028
+15:17:42
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1432.1
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:17:42
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1896.95
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:17:42
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1514
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:17:42
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.55
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:18:34
+Sold TCS Stocks:0
+Selling Rate:2026.25
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:18:34
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.6
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:18:35
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1896.85
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:18:35
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1514.3
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:18:35
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.75
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:19:27
+Sold TCS Stocks:0
+Selling Rate:2029
+Profit or Loss:24.6875
+Current Balance:20028
+15:19:28
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1432.9
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:19:28
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1896.95
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:19:28
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1519.05
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:19:28
+Sold Infosys Ltd. Stocks:0
+Selling Rate:693.45
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:20:18
+Sold TCS Stocks:0
+Selling Rate:2028.8
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:20:19
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1433.25
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:20:19
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1898.45
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:20:19
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1521.65
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:20:19
+Sold Infosys Ltd. Stocks:0
+Selling Rate:693.85
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:21:10
+Sold TCS Stocks:0
+Selling Rate:2027.45
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:21:10
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1432.15
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:21:10
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1897.55
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:21:10
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1522
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:21:10
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.95
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:22:02
+Sold TCS Stocks:0
+Selling Rate:2025.7
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:22:02
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1430
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:22:03
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.65
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:22:03
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1521.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:22:03
+Sold Infosys Ltd. Stocks:0
+Selling Rate:693.75
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:22:53
+Sold TCS Stocks:0
+Selling Rate:2022.55
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:22:53
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.2
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:22:53
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1897.4
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:22:54
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1521
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:22:54
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.65
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:23:43
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:23:44
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1432.05
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:23:44
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1896.8
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:23:44
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1521.5
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:23:44
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.3
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:24:34
+Sold TCS Stocks:0
+Selling Rate:2019.35
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:24:34
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.3
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:24:34
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1898.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:24:34
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1520.6
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:24:35
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.7
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:25:25
+Sold TCS Stocks:0
+Selling Rate:2018
+Profit or Loss:24.6875
+Current Balance:20028
+15:25:25
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.3
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:25:25
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1897.25
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:25:25
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1520
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:25:25
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.45
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:26:16
+Sold TCS Stocks:0
+Selling Rate:2017.2
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:26:16
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1430.6
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:26:16
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1898.4
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:26:16
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1519.85
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:26:16
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:27:07
+Sold TCS Stocks:0
+Selling Rate:2016.65
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:27:07
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.45
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:27:07
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1898.4
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:27:07
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1520
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:27:08
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.1
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:27:58
+Sold TCS Stocks:0
+Selling Rate:2014.6
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:27:58
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1432.7
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:27:58
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1899
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:27:58
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1519.75
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:27:58
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.6
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:28:48
+Sold TCS Stocks:0
+Selling Rate:2013.7
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:28:49
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1433
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:28:49
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1899
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:28:49
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1519.95
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:28:49
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.5
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:29:39
+Sold TCS Stocks:0
+Selling Rate:2015.35
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:29:39
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1433
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:29:40
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1899
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:29:40
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1515
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:29:40
+Sold Infosys Ltd. Stocks:0
+Selling Rate:691
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:30:30
+Sold TCS Stocks:0
+Selling Rate:2018
+Profit or Loss:24.6875
+Current Balance:20028
+15:30:30
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1433
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:30:30
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1899.9
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:30:30
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1515.85
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:30:30
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:31:21
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:31:21
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1433
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:31:21
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1899.9
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:31:21
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1515.85
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:31:21
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:32:12
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:32:12
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1433
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:32:12
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1899.9
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:32:12
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1515.85
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:32:12
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:33:04
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:33:04
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:33:04
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:33:04
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:33:04
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:33:56
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:33:56
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:33:56
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:33:56
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:33:56
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:34:47
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:34:47
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:34:47
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:34:47
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:34:47
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:35:37
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:35:37
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:35:37
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:35:38
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:35:38
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:36:29
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:36:29
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:36:29
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:36:29
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:36:29
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:37:20
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:37:20
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:37:20
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:37:20
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:37:20
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:38:11
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:38:11
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:38:11
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:38:11
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:38:11
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:39:02
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:39:02
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:39:02
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:39:02
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:39:02
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+15:39:53
+Sold TCS Stocks:0
+Selling Rate:2018.95
+Profit or Loss:24.6875
+Current Balance:20028.0
+15:39:53
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:1431.55
+Profit or Loss:-29.01275634765261
+Current Balance:19972.1
+15:39:53
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:1895.3
+Profit or Loss:222.0654296875
+Current Balance:20170.05
+15:39:53
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1516.15
+Profit or Loss:27.06418457030304
+Current Balance:19994.85
+15:39:53
+Sold Infosys Ltd. Stocks:0
+Selling Rate:692.25
+Profit or Loss:35.80750003009962
+Current Balance:20038.95
+10:24:13
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1550.5
+Current Balance:18421.6
+10:24:13
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1797.35
+Current Balance:18197.5
+10:24:23
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1550.25
+Current Balance:16871.35
+10:24:23
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2424.25
+Current Balance:17745.8
+10:24:23
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:715.4
+Current Balance:19323.55
+10:24:33
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1549.6
+Current Balance:15321.749999999998
+10:24:33
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2424.25
+Current Balance:15321.55
+10:24:33
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1797.05
+Current Balance:16400.45
+10:24:33
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:715.4
+Current Balance:18608.149999999998
+10:24:44
+Bought TCSStocks:1
+Purchase Rate:2095.75
+Current Balance:17932.25
+10:24:44
+Bought Reliance Industries Ltd.Stocks:1
+Purchase Rate:1549
+Current Balance:13772.75
+10:24:44
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1797
+Current Balance:14603.45
+10:24:44
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:715.4
+Current Balance:17892.75
+10:24:54
+Bought Bajaj Finance Ltd.Stocks:1
+Purchase Rate:2424
+Current Balance:12897.55
+10:24:54
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1796
+Current Balance:12807.45
+10:24:54
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:715.4
+Current Balance:17177.35
+10:25:05
+Bought TCSStocks:1
+Purchase Rate:2094.75
+Current Balance:15837.5
+10:25:05
+Bought Housing Development Finance Corporation Ltd.Stocks:1
+Purchase Rate:1795.05
+Current Balance:11012.400000000001
+10:25:05
+Bought Infosys Ltd.Stocks:1
+Purchase Rate:714.85
+Current Balance:16462.5
+18:46:43
+Sold TCS Stocks:2
+Selling Rate:2294.95
+Profit or Loss:424.08749999999964
+Current Balance:20427.4
+18:46:44
+Sold Reliance Industries Ltd. Stocks:4
+Selling Rate:2146.45
+Profit or Loss:2358.8122436523463
+Current Balance:22358.55
+18:46:44
+Sold Bajaj Finance Ltd. Stocks:3
+Selling Rate:3464.3
+Profit or Loss:3342.5904296875015
+Current Balance:23290.45
+18:46:44
+Sold Housing Development Finance Corporation Ltd. Stocks:5
+Selling Rate:1777.7
+Profit or Loss:-63.43581542969696
+Current Balance:19900.9
+18:46:44
+Sold Infosys Ltd. Stocks:5
+Selling Rate:950.75
+Profit or Loss:1213.9325000300996
+Current Balance:21216.25
+18:46:57
+Sold TCS Stocks:0
+Selling Rate:2294.95
+Profit or Loss:424.0874999999996
+Current Balance:20427.4
+18:46:57
+Sold Reliance Industries Ltd. Stocks:0
+Selling Rate:2146.45
+Profit or Loss:2358.812243652346
+Current Balance:22358.55
+18:46:57
+Sold Bajaj Finance Ltd. Stocks:0
+Selling Rate:3464.3
+Profit or Loss:3342.590429687501
+Current Balance:23290.45
+18:46:57
+Sold Housing Development Finance Corporation Ltd. Stocks:0
+Selling Rate:1777.7
+Profit or Loss:-63.43581542969696
+Current Balance:19900.9
+18:46:57
+Sold Infosys Ltd. Stocks:0
+Selling Rate:950.75
+Profit or Loss:1213.9325000301
+Current Balance:21216.25
